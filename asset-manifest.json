@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-crud/static/css/main.0c1ba5b3.chunk.css",
-    "main.js": "/react-crud/static/js/main.ff240980.chunk.js",
-    "main.js.map": "/react-crud/static/js/main.ff240980.chunk.js.map",
-    "runtime~main.js": "/react-crud/static/js/runtime~main.73d447a4.js",
-    "runtime~main.js.map": "/react-crud/static/js/runtime~main.73d447a4.js.map",
-    "static/js/2.86a2265c.chunk.js": "/react-crud/static/js/2.86a2265c.chunk.js",
-    "static/js/2.86a2265c.chunk.js.map": "/react-crud/static/js/2.86a2265c.chunk.js.map",
-    "index.html": "/react-crud/index.html",
-    "precache-manifest.0bbbcf48110459f0b6fef68b8a55f2e9.js": "/react-crud/precache-manifest.0bbbcf48110459f0b6fef68b8a55f2e9.js",
-    "service-worker.js": "/react-crud/service-worker.js",
-    "static/css/main.0c1ba5b3.chunk.css.map": "/react-crud/static/css/main.0c1ba5b3.chunk.css.map"
+    "main.css": "/React_CRUDapp/static/css/main.0c1ba5b3.chunk.css",
+    "main.js": "/React_CRUDapp/static/js/main.ff240980.chunk.js",
+    "main.js.map": "/React_CRUDapp/static/js/main.ff240980.chunk.js.map",
+    "runtime~main.js": "/React_CRUDapp/static/js/runtime~main.071eb1fa.js",
+    "runtime~main.js.map": "/React_CRUDapp/static/js/runtime~main.071eb1fa.js.map",
+    "static/js/2.86a2265c.chunk.js": "/React_CRUDapp/static/js/2.86a2265c.chunk.js",
+    "static/js/2.86a2265c.chunk.js.map": "/React_CRUDapp/static/js/2.86a2265c.chunk.js.map",
+    "index.html": "/React_CRUDapp/index.html",
+    "precache-manifest.92c73d55b8826312a7e24ecd39b415db.js": "/React_CRUDapp/precache-manifest.92c73d55b8826312a7e24ecd39b415db.js",
+    "service-worker.js": "/React_CRUDapp/service-worker.js",
+    "static/css/main.0c1ba5b3.chunk.css.map": "/React_CRUDapp/static/css/main.0c1ba5b3.chunk.css.map"
   }
 }
