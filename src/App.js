@@ -25,6 +25,7 @@ class App extends Component {
     render(){
         return (
             <div className="container">
+            <h1>All Submissions</h1>
             <Table characterData={this.state.characters} removeCharacter={this.removeCharacter} />
             <Form handleSubmit={this.handleSubmit}/>
             </div>

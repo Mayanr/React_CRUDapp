@@ -35,6 +35,9 @@ class Form extends Component {
       
         return (
           <form>
+          <br/>
+          <h1> Add a New Name</h1>
+          <p>Submit a name and role. You can delete it after submission.</p>
             <label>Name</label>
             <input
               type="text"
